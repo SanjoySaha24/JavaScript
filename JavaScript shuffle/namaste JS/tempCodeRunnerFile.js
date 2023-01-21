@@ -1,0 +1,1 @@
+var square4 = square(4);
