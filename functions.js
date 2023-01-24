@@ -31,6 +31,11 @@
 //     console.log("I am expression")
 // }
 // fnContainer()
+
+const getArea = function(width, height){
+    return width * height
+}
+console.log(getArea(3,4))
 //-----------------------------------------------------------
 
 // IIFE ~ Immediately invoked Function Expression
@@ -56,14 +61,14 @@
                         // variable can be returned from a function
                         // 3. function cna be returned from a function
 
-function sayHello(param){
-    console.log("hello", param)
-    param()
-    return "jklmn"
-}
-//address
-function smaller(){
-    console.log("Hello I am smaller")
-}
-let rVal = sayHello(smaller)
-console.log(rVal)
+// function sayHello(param){
+//     console.log("hello", param)
+//     param()
+//     return "jklmn"
+// }
+// //address
+// function smaller(){
+//     console.log("Hello I am smaller")
+// }
+// let rVal = sayHello(smaller)
+// console.log(rVal)
