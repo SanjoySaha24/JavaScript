@@ -13,12 +13,12 @@
 // const rel = an.flat(Infinity)
 // console.log(rel);
 
-console.log(Array.isArray("Hitesh"));
+console.log(Array.isArray("Sanjoy"));
 
-console.log(Array.from("Hitesh"));
+console.log(Array.from("Sanjoy"));
 
 // interesting
-console.log(Array.from({name:"Hitesh"}));
+console.log(Array.from({name:"Sanjoy"}));
 
 let score1 = 100
 let score2 = 200
