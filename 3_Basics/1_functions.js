@@ -1,3 +1,4 @@
+
 // function myName(){
 //     console.log("S");
 //     console.log("A");
@@ -9,7 +10,6 @@
 //     console.log(n1 + n2);
 // }
 // sum(3,9)
-
 
 // function sum(n1, n2){
 //     return n1+n2;
@@ -40,5 +40,3 @@
 //     return `${username} just logged in`
 // }
 // console.log(logIn("kkk"));
-
-function cal
