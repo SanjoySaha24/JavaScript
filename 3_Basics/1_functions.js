@@ -31,7 +31,6 @@
 // }
 // console.log(logIn("hitesh"));
 
-
 // function logIn(username){
 //     if(username === undefined){
 //         console.log("enter username");
@@ -39,4 +38,30 @@
 //     }
 //     return `${username} just logged in`
 // }
-// console.log(logIn("kkk"));
+// console.log(logIn());
+
+// function calculateCartPrice(...num1){
+//     return num1
+// }
+// console.log(calculateCartPrice(200,400,500));
+
+const user = {
+    use:"hitesh",
+    price: 199
+}
+
+function handle(anyobj) {
+    console.log(`Username ${anyobj.use}`);
+}
+handle({
+    use:"sam",
+    price: 400
+})
+
+
+// const myN = [200, 400, 100]
+function retu(getA){
+    return getA[1]
+}
+// console.log(retu(myN));
+console.log(retu([200, 400, 100]));
