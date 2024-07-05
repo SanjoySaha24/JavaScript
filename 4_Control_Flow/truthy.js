@@ -42,3 +42,5 @@ false == '' -> true
 // Ternary operator
 //  condition ? true : false
 
+const ice = 100
+ice>100 ? console.log("true") : console.log("false");
