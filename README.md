@@ -1,8 +1,8 @@
-# JavaScript
+## Learning JavaScript
 
-Learning JavaScript
+This repo contains folders related to mastering JavaScript from beginner to advanced levels.
 
-# Resources
+## Resources
 
 1. Chai aur Javascript: https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&si=Zg89jRhHau19sqxy
 
