@@ -12,3 +12,7 @@ This repo contains folders related to mastering JavaScript from beginner to adva
 
    Season 2: https://youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX&si=2gUCPXfN6-PiJ6Mt
 
+## Challenges
+1. Leetcode: https://leetcode.com/studyplan/30-days-of-javascript/
+2. ChaiCode: https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge
+
