@@ -41,8 +41,7 @@ function summation(...digits) {
     digits.forEach(digits => {
         total=total+digits
     });
-    console.log(`Summation is ${total}`)
-        
+    console.log(`Summation is ${total}`)        
     }
 
 summation(1,2,3,4,5,6,7,8,9,10)
